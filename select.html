@@ -1,0 +1,24 @@
+<HTML>
+<HEAD>
+    <TITLE>Test Example</TITLE>
+</HEAD>
+<BODY>
+    <form>
+        <select id="sel" />
+
+    <script>
+    function fill() {
+        var obj = ({"Data":{"Alabama":"AL","Alaska":"AK","Arizona":"AZ","Arkansas":"AR","California":"CA","Colorado":"CO","Connecticutt":"CT","Delaware":"DE","Florida":"FL","Georgia":"GA","Hawaii":"HI","Idaho":"ID","Illinois":"IL","Indiana":"IN","Iowa":"IA","Kansas":"KS","Kentucky":"KY","Louisiana":"LA","Maine":"ME","Massachusetts":"MA","Michigan":"MI"}});
+        var s = document.getElementById('sel');
+       
+        var i = 0;
+        for(var propertyName in obj.Data) {
+        sel.options[i++] = new Option(propertyName, obj.Data[propertyName], true, false);
+    }
+    }
+
+    fill();
+    </script>
+    </form>
+</BODY>
+</HTML>

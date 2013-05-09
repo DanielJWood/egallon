@@ -1,0 +1,58 @@
+{
+"type": "FeatureCollection",
+"features": [{ 
+	"type": "Feature", 
+	"id": 0, 
+	"properties": { 
+		"state": "Alabama",	 
+		"stateabbrev": "AL", 
+		"petrolp": "3.50", 
+		"electricp": "1.50"
+		}
+	}
+,
+{ 
+	"type": "Feature", 
+	"id": 1, 
+	"properties": { 
+		"state": "Alaska",	 
+		"stateabbrev": "AK", 
+		"petrolp": "4.00", 
+		"electricp": "2.50"
+		} 
+	}
+,
+{ 
+	"type": "Feature", 
+	"id": 2, 
+	"properties": { 
+		"state": "Arizona",	 
+		"stateabbrev": "AZ", 
+		"petrolp": "3.20", 
+		"electricp": "1.10"
+		} 
+	}
+,
+{ 
+	"type": "Feature", 
+	"id": 3, 
+	"properties": { 
+		"state": "Arkansas",	 
+		"stateabbrev": "AR", 
+		"petrolp": "3.90", 
+		"electricp": "0.50"
+		} 
+	}
+,
+{ 
+	"type": "Feature", 
+	"id": 4, 
+	"properties": { 
+		"state": "United States of America",	 
+		"stateabbrev": "US", 
+		"petrolp": "3.65", 
+		"electricp": "1.00" 
+		} 
+	}
+]
+}

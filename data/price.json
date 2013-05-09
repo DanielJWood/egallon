@@ -1,0 +1,424 @@
+{ 
+	"gasDate": "05-06-2013",
+	"electricDate":"01-01-2013",
+	"compiledDate":"05-06-2013",
+	"features":
+		[
+		{
+			"state": "US Average",
+			"stateabbrev": "US",
+			"regular": "3.52",
+			"diesel": "3.87",
+			"electricity": "11.47",
+			"eproxy": "1.147"
+		},
+		{
+			"state": "Alabama",
+			"stateabbrev": "AL",
+			"regular": "3.25",
+			"diesel": "3.79",
+			"electricity": "10.84",
+			"eproxy": "1.084"
+		},
+		{
+			"state": "Alaska",
+			"stateabbrev": "AK",
+			"regular": "3.93",
+			"diesel": "4.30",
+			"electricity": "16.68",
+			"eproxy": "1.668"
+		},
+		{
+			"state": "Arizona",
+			"stateabbrev": "AZ",
+			"regular": "3.43",
+			"diesel": "3.69",
+			"electricity": "10.25",
+			"eproxy": "1.025"
+		},
+		{
+			"state": "Arkansas",
+			"stateabbrev": "AR",
+			"regular": "3.30",
+			"diesel": "3.72",
+			"electricity": "8.74",
+			"eproxy": "0.874"
+		},
+		{
+			"state": "California",
+			"stateabbrev": "CA",
+			"regular": "3.91",
+			"diesel": "4.07",
+			"electricity": "16.4",
+			"eproxy": "1.64"
+		},
+		{
+			"state": "Colorado",
+			"stateabbrev": "CO",
+			"regular": "3.55",
+			"diesel": "3.75",
+			"electricity": "11.06",
+			"eproxy": "1.106"
+		},
+		{
+			"state": "Connecticut",
+			"stateabbrev": "CT",
+			"regular": "3.71",
+			"diesel": "4.18",
+			"electricity": "17.05",
+			"eproxy": "1.705"
+		},
+		{
+			"state": "Delaware",
+			"stateabbrev": "DE",
+			"regular": "3.40",
+			"diesel": "3.73",
+			"electricity": "12.85",
+			"eproxy": "1.285"
+		},
+		{
+			"state": "District of Columbia",
+			"stateabbrev": "DC",
+			"regular": "3.75",
+			"diesel": "4.04",
+			"electricity": "12.06",
+			"eproxy": "1.206"
+		},
+		{
+			"state": "Florida",
+			"stateabbrev": "FL",
+			"regular": "3.42",
+			"diesel": "3.88",
+			"electricity": "11.34",
+			"eproxy": "1.134"
+		},
+		{
+			"state": "Georgia",
+			"stateabbrev": "GA",
+			"regular": "3.41",
+			"diesel": "3.85",
+			"electricity": "10.25",
+			"eproxy": "1.025"
+		},
+		{
+			"state": "Hawaii",
+			"stateabbrev": "HI",
+			"regular": "4.34",
+			"diesel": "4.89",
+			"electricity": "37.86",
+			"eproxy": "3.786"
+		},
+		{
+			"state": "Idaho",
+			"stateabbrev": "ID",
+			"regular": "3.50",
+			"diesel": "3.96",
+			"electricity": "8.59",
+			"eproxy": "0.859"
+		},
+		{
+			"state": "Illinois",
+			"stateabbrev": "IL",
+			"regular": "3.95",
+			"diesel": "4.04",
+			"electricity": "10.14",
+			"eproxy": "1.014"
+		},
+		{
+			"state": "Indiana",
+			"stateabbrev": "IN",
+			"regular": "3.77",
+			"diesel": "4.01",
+			"electricity": "9.98",
+			"eproxy": "0.998"
+		},
+		{
+			"state": "Iowa",
+			"stateabbrev": "IA",
+			"regular": "3.45",
+			"diesel": "3.71",
+			"electricity": "10.13",
+			"eproxy": "1.013"
+		},
+		{
+			"state": "Kansas",
+			"stateabbrev": "KS",
+			"regular": "3.42",
+			"diesel": "3.77",
+			"electricity": "10.62",
+			"eproxy": "1.062"
+		},
+		{
+			"state": "Kentucky",
+			"stateabbrev": "KY",
+			"regular": "3.52",
+			"diesel": "3.91",
+			"electricity": "9.25",
+			"eproxy": "0.925"
+		},
+		{
+			"state": "Louisiana",
+			"stateabbrev": "LA",
+			"regular": "3.27",
+			"diesel": "3.72",
+			"electricity": "8.76",
+			"eproxy": "0.876"
+		},
+		{
+			"state": "Maine",
+			"stateabbrev": "ME",
+			"regular": "3.50",
+			"diesel": "3.96",
+			"electricity": "14.61",
+			"eproxy": "1.461"
+		},
+		{
+			"state": "Maryland",
+			"stateabbrev": "MD",
+			"regular": "3.45",
+			"diesel": "3.79",
+			"electricity": "12.5",
+			"eproxy": "1.25"
+		},
+		{
+			"state": "Massachusetts",
+			"stateabbrev": "MA",
+			"regular": "3.47",
+			"diesel": "3.93",
+			"electricity": "14.28",
+			"eproxy": "1.428"
+		},
+		{
+			"state": "Michigan",
+			"stateabbrev": "MI",
+			"regular": "3.77",
+			"diesel": "4.05",
+			"electricity": "13.65",
+			"eproxy": "1.365"
+		},
+		{
+			"state": "Minnesota",
+			"stateabbrev": "MN",
+			"regular": "3.59",
+			"diesel": "3.91",
+			"electricity": "11.05",
+			"eproxy": "1.105"
+		},
+		{
+			"state": "Mississippi",
+			"stateabbrev": "MS",
+			"regular": "3.26",
+			"diesel": "3.69",
+			"electricity": "9.99",
+			"eproxy": "0.999"
+		},
+		{
+			"state": "Missouri",
+			"stateabbrev": "MO",
+			"regular": "3.37",
+			"diesel": "3.66",
+			"electricity": "8.93",
+			"eproxy": "0.893"
+		},
+		{
+			"state": "Montana",
+			"stateabbrev": "MT",
+			"regular": "3.36",
+			"diesel": "3.84",
+			"electricity": "9.81",
+			"eproxy": "0.981"
+		},
+		{
+			"state": "Nebraska",
+			"stateabbrev": "NE",
+			"regular": "3.46",
+			"diesel": "3.76",
+			"electricity": "8.72",
+			"eproxy": "0.872"
+		},
+		{
+			"state": "Nevada",
+			"stateabbrev": "NV",
+			"regular": "3.54",
+			"diesel": "3.83",
+			"electricity": "11.24",
+			"eproxy": "1.124"
+		},
+		{
+			"state": "New Hampshire",
+			"stateabbrev": "NH",
+			"regular": "3.40",
+			"diesel": "3.82",
+			"electricity": "16.06",
+			"eproxy": "1.606"
+		},
+		{
+			"state": "New Jersey",
+			"stateabbrev": "NJ",
+			"regular": "3.32",
+			"diesel": "3.70",
+			"electricity": "15.3",
+			"eproxy": "1.53"
+		},
+		{
+			"state": "New Mexico",
+			"stateabbrev": "NM",
+			"regular": "3.36",
+			"diesel": "3.81",
+			"electricity": "10.88",
+			"eproxy": "1.088"
+		},
+		{
+			"state": "New York",
+			"stateabbrev": "NY",
+			"regular": "3.70",
+			"diesel": "4.20",
+			"electricity": "18.02",
+			"eproxy": "1.802"
+		},
+		{
+			"state": "North Carolina",
+			"stateabbrev": "NC",
+			"regular": "3.41",
+			"diesel": "3.89",
+			"electricity": "10.19",
+			"eproxy": "1.019"
+		},
+		{
+			"state": "North Dakota",
+			"stateabbrev": "ND",
+			"regular": "3.61",
+			"diesel": "4.03",
+			"electricity": "7.71",
+			"eproxy": "0.771"
+		},
+		{
+			"state": "Ohio",
+			"stateabbrev": "OH",
+			"regular": "3.68",
+			"diesel": "3.98",
+			"electricity": "11.01",
+			"eproxy": "1.101"
+		},
+		{
+			"state": "Oklahoma",
+			"stateabbrev": "OK",
+			"regular": "3.35",
+			"diesel": "3.63",
+			"electricity": "8.01",
+			"eproxy": "0.801"
+		},
+		{
+			"state": "Oregon",
+			"stateabbrev": "OR",
+			"regular": "3.66",
+			"diesel": "3.92",
+			"electricity": "9.65",
+			"eproxy": "0.965"
+		},
+		{
+			"state": "Pennsylvania",
+			"stateabbrev": "PA",
+			"regular": "3.45",
+			"diesel": "3.90",
+			"electricity": "12.35",
+			"eproxy": "1.235"
+		},
+		{
+			"state": "Rhode Island",
+			"stateabbrev": "RI",
+			"regular": "3.53",
+			"diesel": "3.97",
+			"electricity": "14.8",
+			"eproxy": "1.48"
+		},
+		{
+			"state": "South Carolina",
+			"stateabbrev": "SC",
+			"regular": "3.21",
+			"diesel": "3.69",
+			"electricity": "11.63",
+			"eproxy": "1.163"
+		},
+		{
+			"state": "South Dakota",
+			"stateabbrev": "SD",
+			"regular": "3.43",
+			"diesel": "3.74",
+			"electricity": "9.07",
+			"eproxy": "0.907"
+		},
+		{
+			"state": "Tennessee",
+			"stateabbrev": "TN",
+			"regular": "3.24",
+			"diesel": "3.77",
+			"electricity": "10.03",
+			"eproxy": "1.003"
+		},
+		{
+			"state": "Texas",
+			"stateabbrev": "TX",
+			"regular": "3.34",
+			"diesel": "3.74",
+			"electricity": "10.89",
+			"eproxy": "1.089"
+		},
+		{
+			"state": "Utah",
+			"stateabbrev": "UT",
+			"regular": "3.47",
+			"diesel": "3.81",
+			"electricity": "9.69",
+			"eproxy": "0.969"
+		},
+		{
+			"state": "Vermont",
+			"stateabbrev": "VT",
+			"regular": "3.54",
+			"diesel": "3.97",
+			"electricity": "17.73",
+			"eproxy": "1.773"
+		},
+		{
+			"state": "Virginia",
+			"stateabbrev": "VA",
+			"regular": "3.35",
+			"diesel": "3.75",
+			"electricity": "9.99",
+			"eproxy": "0.999"
+		},
+		{
+			"state": "Washington",
+			"stateabbrev": "WA",
+			"regular": "3.69",
+			"diesel": "4.00",
+			"electricity": "8.5",
+			"eproxy": "0.85"
+		},
+		{
+			"state": "West Virginia",
+			"stateabbrev": "WV",
+			"regular": "3.64",
+			"diesel": "4.02",
+			"electricity": "9.37",
+			"eproxy": "0.937"
+		},
+		{
+			"state": "Wisconsin",
+			"stateabbrev": "WI",
+			"regular": "3.73",
+			"diesel": "3.96",
+			"electricity": "13.1",
+			"eproxy": "1.31"
+		},
+		{
+			"state": "Wyoming",
+			"stateabbrev": "WY",
+			"regular": "3.33",
+			"diesel": "3.81",
+			"electricity": "9.51",
+			"eproxy": "0.951"
+		}		
+	]
+}

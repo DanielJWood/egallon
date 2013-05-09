@@ -1,0 +1,297 @@
+{
+"type": "FeatureCollection",
+"features": [{ 
+	"type": "Feature", 
+	"id": 0, "properties": { 
+		"shapeid": "0",	 
+		"key": "MP", 
+		"TYPE": "plays", 
+		"PLAY": "Miocene", 
+		"NAME": "Kabarda", 
+		"AREA": "Keathley Canyon", 
+		"STATUS": "Prospect", 
+		"OPERATOR": "Nexen", 
+		"PARTNERS": "Nexen, TOTAL", 
+		"WTR_DEPTH": "4,364 ft", 
+		"AR": "", 
+		"BLOCK": "", 
+		"WELL_NO": "", 
+		"PROSPECT": "", 
+		"COBALT": "", 
+		"DISC_DATE": "", 
+		"LOCATION": "" 
+		}, 
+	"geometry": { 
+		"type": "Point", 
+		"coordinates": [ -92.845174, 26.881703 ] } 
+	}
+,{ 
+	"type": "Feature", 
+	"id": 97, "properties": { 
+		"shapeid": "97",	 
+		"key": "MP", 
+		"TYPE": "plays", 
+		"PLAY": "Miocene", 
+		"NAME": "Kabarda", 
+		"AREA": "Keathley Canyon", 
+		"STATUS": "Prospect", 
+		"OPERATOR": "Nexen", 
+		"PARTNERS": "Nexen, TOTAL", 
+		"WTR_DEPTH": "4,364 ft", 
+		"AR": "", 
+		"BLOCK": "", 
+		"WELL_NO": "", 
+		"PROSPECT": "", 
+		"COBALT": "", 
+		"DISC_DATE": "", 
+		"LOCATION": "" 
+		}, 
+	"geometry": { 
+		"type": "Point", 
+		"coordinates": [ 3.867188, -6.053161 ] } 
+	}
+,{ 
+	"type": "Feature", 
+	"id": 98, "properties": { 
+		"shapeid": "98",	 
+		"key": "MP", 
+		"TYPE": "plays", 
+		"PLAY": "Miocene", 
+		"NAME": "Kabarda", 
+		"AREA": "Keathley Canyon", 
+		"STATUS": "Prospect", 
+		"OPERATOR": "Nexen", 
+		"PARTNERS": "Nexen, TOTAL", 
+		"WTR_DEPTH": "4,364 ft", 
+		"AR": "", 
+		"BLOCK": "", 
+		"WELL_NO": "", 
+		"PROSPECT": "", 
+		"COBALT": "", 
+		"DISC_DATE": "", 
+		"LOCATION": "" 
+		}, 
+	"geometry": { 
+		"type": "Point", 
+		"coordinates": [ 7.075195, -4.959615 ] } 
+	}
+,{ 
+	"type": "Feature", 
+	"id": 99, "properties": { 
+		"shapeid": "99",	 
+		"key": "MP", 
+		"TYPE": "plays", 
+		"PLAY": "Miocene", 
+		"NAME": "Kabarda", 
+		"AREA": "Keathley Canyon", 
+		"STATUS": "Prospect", 
+		"OPERATOR": "Nexen", 
+		"PARTNERS": "Nexen, TOTAL", 
+		"WTR_DEPTH": "4,364 ft", 
+		"AR": "", 
+		"BLOCK": "", 
+		"WELL_NO": "", 
+		"PROSPECT": "", 
+		"COBALT": "", 
+		"DISC_DATE": "", 
+		"LOCATION": "" 
+		}, 
+	"geometry": { 
+		"type": "Point", 
+		"coordinates": [ 8.833008, -8.841651 ] } 
+	}
+,
+{ "type": "Feature", "id": 1, "properties": { "shapeid": "1", "key": "MP", "TYPE": "plays", "PLAY": "Miocene", "NAME": "Campolina", "AREA": "Keathley Canyon", "STATUS": "Prospect", "OPERATOR": "Nexen", "PARTNERS": "Nexen, TOTAL", "WTR_DEPTH": "5,210 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -92.769829, 26.589211 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "shapeid": "2", "key": "MP", "TYPE": "plays", "PLAY": "Miocene", "NAME": "Saddlebred", "AREA": "Green Canyon", "STATUS": "Prospect", "OPERATOR": "Cobalt", "PARTNERS": "TOTAL", "WTR_DEPTH": "2,900 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -91.059901, 27.552688 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "shapeid": "3", "key": "MP", "TYPE": "plays", "PLAY": "Miocene", "NAME": "Percheron", "AREA": "Green Canyon", "STATUS": "Prospect", "OPERATOR": "Cobalt", "PARTNERS": "TOTAL", "WTR_DEPTH": "5,700 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -90.309332, 27.018243 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "shapeid": "4", "key": "LT", "TYPE": "plays", "PLAY": "Lower Tertiary", "NAME": "Tori", "AREA": "Green Canyon", "STATUS": "Prospect", "OPERATOR": "Cobalt", "PARTNERS": "TOTAL", "WTR_DEPTH": "5,500 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -91.482168, 27.104112 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "shapeid": "5", "key": "MP", "TYPE": "plays", "PLAY": "Miocene", "NAME": "Mustang", "AREA": "Mississippi Canyon", "STATUS": "Prospect", "OPERATOR": "Cobalt", "PARTNERS": "TOTAL", "WTR_DEPTH": "2,300 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -89.290110, 28.371901 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "shapeid": "6", "key": "LT", "TYPE": "plays", "PLAY": "Lower Tertiary", "NAME": "Orpheus", "AREA": "Keathley Canyon", "STATUS": "Prospect", "OPERATOR": "Nexen", "PARTNERS": "Nexen, TOTAL", "WTR_DEPTH": "5,500 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -92.066016, 26.727190 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "shapeid": "7", "key": "LT", "TYPE": "plays", "PLAY": "Lower Tertiary", "NAME": "Yakut", "AREA": "Green Canyon", "STATUS": "Prospect", "OPERATOR": "Cobalt", "PARTNERS": "TOTAL", "WTR_DEPTH": "5,500 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -91.295087, 27.333077 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "shapeid": "8", "key": "LT", "TYPE": "plays", "PLAY": "Lower Tertiary", "NAME": "Nanbu", "AREA": "Keathley Canyon", "STATUS": "Prospect", "OPERATOR": "Nexen", "PARTNERS": "Nexen, TOTAL", "WTR_DEPTH": "5,400 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -92.892185, 26.660005 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "shapeid": "9", "key": "MP", "TYPE": "plays", "PLAY": "Miocene", "NAME": "Glider Deep", "AREA": "Green Canyon", "STATUS": "Prospect", "OPERATOR": "Cobalt", "PARTNERS": "TOTAL", "WTR_DEPTH": "3,000 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -90.569802, 27.756463 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "shapeid": "10", "key": "MP", "TYPE": "plays", "PLAY": "Miocene", "NAME": "Eta", "AREA": "Green Canyon", "STATUS": "Prospect", "OPERATOR": "Cobalt", "PARTNERS": "TOTAL", "WTR_DEPTH": "1,700 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -89.907982, 27.828540 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "shapeid": "11", "key": "MP", "TYPE": "plays", "PLAY": "Miocene", "NAME": "Blue Morpho", "AREA": "Garden Banks", "STATUS": "Prospect", "OPERATOR": "Nexen", "PARTNERS": "Nexen, TOTAL", "WTR_DEPTH": "2,500 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -92.280081, 27.492233 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "shapeid": "12", "key": "LT", "TYPE": "plays", "PLAY": "Lower Tertiary", "NAME": "Appaloosa", "AREA": "Walker Ridge", "STATUS": "Prospect", "OPERATOR": "Eni", "PARTNERS": "Eni, Samson, TOTAL", "WTR_DEPTH": "7,300 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -91.361658, 26.504405 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "shapeid": "13", "key": "MP", "TYPE": "plays", "PLAY": "Miocene", "NAME": "Rocky Mountain", "AREA": "Mississippi Canyon", "STATUS": "Prospect", "OPERATOR": "Cobalt", "PARTNERS": "Sonangol, TOTAL", "WTR_DEPTH": "6,100 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -88.335272, 28.313496 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "shapeid": "14", "key": "LT", "TYPE": "plays", "PLAY": "Lower Tertiary", "NAME": "El Ciervo", "AREA": "Walker Ridge", "STATUS": "Prospect", "OPERATOR": "Eni", "PARTNERS": "Eni, Samson, TOTAL", "WTR_DEPTH": "6,000 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -91.797381, 26.568567 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "shapeid": "15", "key": "MP", "TYPE": "plays", "PLAY": "Miocene", "NAME": "Tequila Sunrise", "AREA": "Green Canyon", "STATUS": "Prospect", "OPERATOR": "BHP", "PARTNERS": "BHP, TOTAL", "WTR_DEPTH": "3,600 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -91.717434, 27.380274 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "shapeid": "16", "key": "MP", "TYPE": "plays", "PLAY": "Miocene", "NAME": "Banda", "AREA": "Atwater Valley", "STATUS": "Prospect", "OPERATOR": "Cobalt", "PARTNERS": "Sonangol, TOTAL", "WTR_DEPTH": "3,500 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -89.832189, 27.732909 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "shapeid": "17", "key": "MP", "TYPE": "plays", "PLAY": "Miocene", "NAME": "Squirrel", "AREA": "Mississippi Canyon", "STATUS": "Prospect", "OPERATOR": "Cobalt", "PARTNERS": "Eni, TOTAL", "WTR_DEPTH": "4,900 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -88.168423, 28.839348 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "shapeid": "18", "key": "MP", "TYPE": "plays", "PLAY": "Miocene", "NAME": "Marmot", "AREA": "Mississippi Canyon", "STATUS": "Prospect", "OPERATOR": "Eni", "PARTNERS": "Eni, TOTAL", "WTR_DEPTH": "3,500 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -88.197861, 28.954330 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "shapeid": "19", "key": "LT", "TYPE": "plays", "PLAY": "Lower Tertiary", "NAME": "Lemming", "AREA": "Keathley Canyon", "STATUS": "Prospect", "OPERATOR": "Cobalt", "PARTNERS": "TOTAL", "WTR_DEPTH": "4,800 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -93.481750, 26.703497 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "shapeid": "20", "key": "MP", "TYPE": "plays", "PLAY": "Miocene", "NAME": "Postman", "AREA": "Garden Banks", "STATUS": "Prospect", "OPERATOR": "Nexen", "PARTNERS": "Nexen, TOTAL", "WTR_DEPTH": "3,000 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -92.387146, 27.396770 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "shapeid": "21", "key": "LT", "TYPE": "plays", "PLAY": "Lower Tertiary", "NAME": "Truffle East", "AREA": "Keathley Canyon", "STATUS": "Prospect", "OPERATOR": "Cobalt", "PARTNERS": "TOTAL", "WTR_DEPTH": "6,900 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -92.544698, 26.010707 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "shapeid": "22", "key": "MP", "TYPE": "plays", "PLAY": "Miocene", "NAME": "Marilou", "AREA": "Atwater Valley", "STATUS": "Prospect", "OPERATOR": "Cobalt", "PARTNERS": "TOTAL, Sonangol", "WTR_DEPTH": "2,500 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -89.659664, 27.953165 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "shapeid": "23", "key": "MP", "TYPE": "plays", "PLAY": "Miocene", "NAME": "Canebrake", "AREA": "Atwater Valley", "STATUS": "Prospect", "OPERATOR": "Cobalti", "PARTNERS": "Sonangol, TOTAL", "WTR_DEPTH": "2,600 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -89.807755, 27.898363 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "shapeid": "24", "key": "LT", "TYPE": "plays", "PLAY": "Lower Tertiary", "NAME": "Aegean", "AREA": "Keathley Canyon", "STATUS": "Permitted", "OPERATOR": "Cobalt", "PARTNERS": "TOTAL, Shell", "WTR_DEPTH": "5,400 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -92.454316, 26.806531 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "shapeid": "25", "key": "DR", "TYPE": "plays", "PLAY": "Lower Tertiary", "NAME": "North Platte", "AREA": "Garden Banks", "STATUS": "Drilling", "OPERATOR": "Cobalt", "PARTNERS": "TOTAL", "WTR_DEPTH": "4,300 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -92.237058, 27.052469 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "shapeid": "26", "key": "LT", "TYPE": "plays", "PLAY": "Lower Tertiary", "NAME": "Baffin Bay", "AREA": "Garden Banks", "STATUS": "Prospect", "OPERATOR": "Cobalt", "PARTNERS": "TOTAL", "WTR_DEPTH": "5,100 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -92.344364, 27.050263 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "shapeid": "27", "key": "LT", "TYPE": "plays", "PLAY": "Lower Tertiary", "NAME": "South Platte", "AREA": "Garden Banks", "STATUS": "Prospect", "OPERATOR": "Cobalt", "PARTNERS": "TOTAL", "WTR_DEPTH": "4,200 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -92.245629, 26.964636 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "shapeid": "28", "key": "DR", "TYPE": "plays", "PLAY": "Lower Tertiary", "NAME": "Shenandoah", "AREA": "Walker Ridge", "STATUS": "Drilling", "OPERATOR": "Anadarko", "PARTNERS": "Anadarko, ConocoPhillips, Marathon", "WTR_DEPTH": "5,800 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -91.566509, 26.899203 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "shapeid": "29", "key": "LT", "TYPE": "plays", "PLAY": "Lower Tertiary", "NAME": "Latvian East", "AREA": "Garden Banks", "STATUS": "Prospect", "OPERATOR": "Cobalt", "PARTNERS": "TOTAL", "WTR_DEPTH": "4,000 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -92.122775, 27.146977 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "shapeid": "30", "key": "LT", "TYPE": "plays", "PLAY": "Lower Tertiary", "NAME": "Latvian West", "AREA": "Garden Banks", "STATUS": "Prospect", "OPERATOR": "Cobalt", "PARTNERS": "TOTAL", "WTR_DEPTH": "4,000 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -92.191232, 27.134218 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "shapeid": "31", "key": "LT", "TYPE": "plays", "PLAY": "Lower Tertiary", "NAME": "Goodfellow", "AREA": "Walker Ridge", "STATUS": "Prospect", "OPERATOR": "Eni", "PARTNERS": "Eni, Samson, TOTAL", "WTR_DEPTH": "5,604 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -91.883870, 26.848306 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "shapeid": "32", "key": "MP", "TYPE": "plays", "PLAY": "Miocene", "NAME": "Lyell", "AREA": "Green Canyon", "STATUS": "Prospect", "OPERATOR": "Anadarko", "PARTNERS": "Anadarko, TOTAL, Newfield, Mariner", "WTR_DEPTH": "3,700 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -90.817825, 27.436141 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "shapeid": "33", "key": "LT", "TYPE": "plays", "PLAY": "Lower Tertiary", "NAME": "Mulashidi", "AREA": "Garden Banks", "STATUS": "Prospect", "OPERATOR": "Cobalt", "PARTNERS": "TOTAL", "WTR_DEPTH": "2,400 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -93.278400, 27.211347 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "shapeid": "34", "key": "LT", "TYPE": "plays", "PLAY": "Lower Tertiary", "NAME": "Zawgyi", "AREA": "Garden Banks", "STATUS": "Prospect", "OPERATOR": "Cobalt", "PARTNERS": "TOTAL", "WTR_DEPTH": "3,400 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -93.070960, 27.118224 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "shapeid": "35", "key": "LT", "TYPE": "plays", "PLAY": "Lower Tertiary", "NAME": "Kispiox South", "AREA": "Garden Banks", "STATUS": "Prospect", "OPERATOR": "Cobalt", "PARTNERS": "TOTAL", "WTR_DEPTH": "2,400 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -93.105931, 27.285397 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "shapeid": "36", "key": "LT", "TYPE": "plays", "PLAY": "Lower Tertiary", "NAME": "Kispiox", "AREA": "Garden Banks", "STATUS": "Prospect", "OPERATOR": "Cobalt", "PARTNERS": "TOTAL", "WTR_DEPTH": "2,400 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -92.980847, 27.384326 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "shapeid": "37", "key": "LT", "TYPE": "plays", "PLAY": "Lower Tertiary", "NAME": "Caspian", "AREA": "Garden Banks", "STATUS": "Prospect", "OPERATOR": "Cobalt", "PARTNERS": "TOTAL", "WTR_DEPTH": "2,100 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -93.398480, 27.422822 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "shapeid": "38", "key": "MP", "TYPE": "plays", "PLAY": "Miocene", "NAME": "Racer", "AREA": "Green Canyon", "STATUS": "Prospect", "OPERATOR": "BHP", "PARTNERS": "BHP, TOTAL", "WTR_DEPTH": "4,400 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -91.250271, 27.189717 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "shapeid": "39", "key": "MP", "TYPE": "plays", "PLAY": "Miocene", "NAME": "Capri", "AREA": "Keathley Canyon", "STATUS": "Prospect", "OPERATOR": "Cobalt", "PARTNERS": "TOTAL", "WTR_DEPTH": "6,334 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -92.810880, 26.199869 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "shapeid": "40", "key": "MP", "TYPE": "plays", "PLAY": "Miocene", "NAME": "Sulu", "AREA": "Green Canyon", "STATUS": "Prospect", "OPERATOR": "Cobalt", "PARTNERS": "Sonangol, TOTAL", "WTR_DEPTH": "3,500 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -90.085932, 27.704844 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "shapeid": "41", "key": "LT", "TYPE": "plays", "PLAY": "Lower Tertiary", "NAME": "Williams Fork", "AREA": "Garden Banks", "STATUS": "Prospect", "OPERATOR": "Nexen", "PARTNERS": "Nexen, TOTAL", "WTR_DEPTH": "4,000 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -92.449039, 27.159790 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "shapeid": "42", "key": "MP", "TYPE": "plays", "PLAY": "Miocene", "NAME": "Rum Ramsey", "AREA": "Green Canyon", "STATUS": "Prospect", "OPERATOR": "BHP", "PARTNERS": "BHP, TOTAL", "WTR_DEPTH": "5,650 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -91.123151, 27.294534 ] } }
+,
+{ "type": "Feature", "id": 43, "properties": { "shapeid": "43", "key": "MP", "TYPE": "plays", "PLAY": "Miocene", "NAME": "Ardennes", "AREA": "Green Canyon", "STATUS": "Permitted", "OPERATOR": "Cobalt", "PARTNERS": "TOTAL, ConocoPhillips", "WTR_DEPTH": "5,340 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -91.167401, 27.085168 ] } }
+,
+{ "type": "Feature", "id": 44, "properties": { "shapeid": "44", "key": "DA", "TYPE": "drilling", "PLAY": "", "NAME": "Discoverer Spirit", "AREA": "", "STATUS": "", "OPERATOR": "Anadarko", "PARTNERS": "", "WTR_DEPTH": "", "AR": "GC", "BLOCK": "727", "WELL_NO": "SS2", "PROSPECT": "Caesar", "COBALT": "N", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -90.809096, 27.266755 ] } }
+,
+{ "type": "Feature", "id": 45, "properties": { "shapeid": "45", "key": "DA", "TYPE": "drilling", "PLAY": "", "NAME": "Ensco 8500", "AREA": "", "STATUS": "", "OPERATOR": "Anadarko", "PARTNERS": "", "WTR_DEPTH": "", "AR": "KC", "BLOCK": "874", "WELL_NO": "SS1", "PROSPECT": "Lucius", "COBALT": "N", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -92.053930, 26.104284 ] } }
+,
+{ "type": "Feature", "id": 46, "properties": { "shapeid": "46", "key": "DA", "TYPE": "drilling", "PLAY": "", "NAME": "Discoverer Deep Seas", "AREA": "", "STATUS": "", "OPERATOR": "Chevron", "PARTNERS": "", "WTR_DEPTH": "", "AR": "GC", "BLOCK": "640", "WELL_NO": "PS4", "PROSPECT": "Tahiti", "COBALT": "N", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -90.753746, 27.316521 ] } }
+,
+{ "type": "Feature", "id": 47, "properties": { "shapeid": "47", "key": "DA", "TYPE": "drilling", "PLAY": "", "NAME": "Clear Leader", "AREA": "", "STATUS": "", "OPERATOR": "Union", "PARTNERS": "", "WTR_DEPTH": "", "AR": "WR", "BLOCK": "677", "WELL_NO": "PN1", "PROSPECT": "St Malo N", "COBALT": "N", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -91.085741, 26.317918 ] } }
+,
+{ "type": "Feature", "id": 48, "properties": { "shapeid": "48", "key": "DA", "TYPE": "drilling", "PLAY": "", "NAME": "Atwood Condor", "AREA": "", "STATUS": "", "OPERATOR": "Hess", "PARTNERS": "", "WTR_DEPTH": "", "AR": "GB", "BLOCK": "386", "WELL_NO": "LL4", "PROSPECT": "Llano", "COBALT": "N", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -92.282223, 27.589261 ] } }
+,
+{ "type": "Feature", "id": 49, "properties": { "shapeid": "49", "key": "DA", "TYPE": "drilling", "PLAY": "", "NAME": "H&P 205", "AREA": "", "STATUS": "", "OPERATOR": "Shell", "PARTNERS": "", "WTR_DEPTH": "", "AR": "AC", "BLOCK": "857", "WELL_NO": "GA7", "PROSPECT": "Great White", "COBALT": "N", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -94.898621, 26.129123 ] } }
+,
+{ "type": "Feature", "id": 50, "properties": { "shapeid": "50", "key": "DA", "TYPE": "drilling", "PLAY": "", "NAME": "Dd Iii", "AREA": "", "STATUS": "", "OPERATOR": "Bp", "PARTNERS": "", "WTR_DEPTH": "", "AR": "GC", "BLOCK": "699", "WELL_NO": "DC312", "PROSPECT": "Atlantis", "COBALT": "N", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -90.034165, 27.250709 ] } }
+,
+{ "type": "Feature", "id": 51, "properties": { "shapeid": "51", "key": "DA", "TYPE": "drilling", "PLAY": "", "NAME": "Mods 200", "AREA": "", "STATUS": "", "OPERATOR": "Murphy", "PARTNERS": "", "WTR_DEPTH": "", "AR": "GC", "BLOCK": "338", "WELL_NO": "A7ST2", "PROSPECT": "Front Runner", "COBALT": "N", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -90.441256, 27.625286 ] } }
+,
+{ "type": "Feature", "id": 52, "properties": { "shapeid": "52", "key": "DA", "TYPE": "drilling", "PLAY": "", "NAME": "H&P 202", "AREA": "", "STATUS": "", "OPERATOR": "Shell", "PARTNERS": "", "WTR_DEPTH": "", "AR": "GC", "BLOCK": "158", "WELL_NO": "A6ST", "PROSPECT": "Brutus", "COBALT": "N", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -90.647684, 27.795503 ] } }
+,
+{ "type": "Feature", "id": 53, "properties": { "shapeid": "53", "key": "DA", "TYPE": "drilling", "PLAY": "", "NAME": "Ds-3", "AREA": "", "STATUS": "", "OPERATOR": "Bp", "PARTNERS": "", "WTR_DEPTH": "", "AR": "MC", "BLOCK": "429", "WELL_NO": "A5", "PROSPECT": "Ariel", "COBALT": "N", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -88.323878, 28.580906 ] } }
+,
+{ "type": "Feature", "id": 54, "properties": { "shapeid": "54", "key": "DA", "TYPE": "drilling", "PLAY": "", "NAME": "Nabors 19", "AREA": "", "STATUS": "", "OPERATOR": "W & T", "PARTNERS": "", "WTR_DEPTH": "", "AR": "MC", "BLOCK": "243", "WELL_NO": "A4ST", "PROSPECT": "Matterhorn", "COBALT": "N", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -88.825560, 28.742601 ] } }
+,
+{ "type": "Feature", "id": 55, "properties": { "shapeid": "55", "key": "DA", "TYPE": "drilling", "PLAY": "", "NAME": "H&P 206", "AREA": "", "STATUS": "", "OPERATOR": "Dynamic", "PARTNERS": "", "WTR_DEPTH": "", "AR": "GC", "BLOCK": "65", "WELL_NO": "A20", "PROSPECT": "Bullwinkle", "COBALT": "N", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -90.901591, 27.883286 ] } }
+,
+{ "type": "Feature", "id": 56, "properties": { "shapeid": "56", "key": "DA", "TYPE": "drilling", "PLAY": "", "NAME": "H&P 201", "AREA": "", "STATUS": "", "OPERATOR": "Shell", "PARTNERS": "", "WTR_DEPTH": "", "AR": "MC", "BLOCK": "807", "WELL_NO": "A1ST2", "PROSPECT": "Mars", "COBALT": "N", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -89.222802, 28.169647 ] } }
+,
+{ "type": "Feature", "id": 57, "properties": { "shapeid": "57", "key": "DA", "TYPE": "drilling", "PLAY": "", "NAME": "Dd I", "AREA": "", "STATUS": "", "OPERATOR": "Bhp", "PARTNERS": "", "WTR_DEPTH": "", "AR": "GC", "BLOCK": "507", "WELL_NO": "2ST", "PROSPECT": "Ness Deep", "COBALT": "N", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -90.805468, 27.475805 ] } }
+,
+{ "type": "Feature", "id": 58, "properties": { "shapeid": "58", "key": "DA", "TYPE": "drilling", "PLAY": "", "NAME": "Deepwater Nautilus", "AREA": "", "STATUS": "", "OPERATOR": "Shell", "PARTNERS": "", "WTR_DEPTH": "", "AR": "MC", "BLOCK": "391", "WELL_NO": "1ST", "PROSPECT": "Appomattox", "COBALT": "N", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -88.026323, 28.618233 ] } }
+,
+{ "type": "Feature", "id": 59, "properties": { "shapeid": "59", "key": "DA", "TYPE": "drilling", "PLAY": "", "NAME": "Ensco 8502", "AREA": "", "STATUS": "", "OPERATOR": "Llog", "PARTNERS": "", "WTR_DEPTH": "", "AR": "MC", "BLOCK": "761", "WELL_NO": "1ST", "PROSPECT": "Blackhawk", "COBALT": "N", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -89.295435, 28.219113 ] } }
+,
+{ "type": "Feature", "id": 60, "properties": { "shapeid": "60", "key": "DA", "TYPE": "drilling", "PLAY": "", "NAME": "Discoverer Inspiration", "AREA": "", "STATUS": "", "OPERATOR": "Chevron", "PARTNERS": "", "WTR_DEPTH": "", "AR": "WR", "BLOCK": "758", "WELL_NO": "1ST", "PROSPECT": "Jack", "COBALT": "N", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -91.443121, 26.208143 ] } }
+,
+{ "type": "Feature", "id": 61, "properties": { "shapeid": "61", "key": "DA", "TYPE": "drilling", "PLAY": "", "NAME": "Ds-5", "AREA": "", "STATUS": "", "OPERATOR": "Petrobras", "PARTNERS": "", "WTR_DEPTH": "", "AR": "WR", "BLOCK": "250", "WELL_NO": "4", "PROSPECT": "Cascade", "COBALT": "N", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -90.492155, 26.738308 ] } }
+,
+{ "type": "Feature", "id": 62, "properties": { "shapeid": "62", "key": "DA", "TYPE": "drilling", "PLAY": "", "NAME": "Dw Pathfinder", "AREA": "", "STATUS": "", "OPERATOR": "Eni", "PARTNERS": "", "WTR_DEPTH": "", "AR": "MC", "BLOCK": "460", "WELL_NO": "3", "PROSPECT": "Appaloosa", "COBALT": "N", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -88.995282, 28.508640 ] } }
+,
+{ "type": "Feature", "id": 63, "properties": { "shapeid": "63", "key": "DA", "TYPE": "drilling", "PLAY": "", "NAME": "West Sirius", "AREA": "", "STATUS": "", "OPERATOR": "Bp", "PARTNERS": "", "WTR_DEPTH": "", "AR": "KC", "BLOCK": "292", "WELL_NO": "2", "PROSPECT": "Kaskida", "COBALT": "N", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -92.572437, 26.677664 ] } }
+,
+{ "type": "Feature", "id": 64, "properties": { "shapeid": "64", "key": "DA", "TYPE": "drilling", "PLAY": "", "NAME": "Discoverer India", "AREA": "", "STATUS": "", "OPERATOR": "Chevron", "PARTNERS": "", "WTR_DEPTH": "", "AR": "KC", "BLOCK": "736", "WELL_NO": "2", "PROSPECT": "Moccasin", "COBALT": "N", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -92.371186, 26.274416 ] } }
+,
+{ "type": "Feature", "id": 65, "properties": { "shapeid": "65", "key": "DA", "TYPE": "drilling", "PLAY": "", "NAME": "Stena Forth", "AREA": "", "STATUS": "", "OPERATOR": "Hess", "PARTNERS": "", "WTR_DEPTH": "", "AR": "MC", "BLOCK": "725", "WELL_NO": "2", "PROSPECT": "Tubular Bells", "COBALT": "N", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -88.927772, 28.246550 ] } }
+,
+{ "type": "Feature", "id": 66, "properties": { "shapeid": "66", "key": "DA", "TYPE": "drilling", "PLAY": "", "NAME": "Dd I", "AREA": "", "STATUS": "", "OPERATOR": "Bhp", "PARTNERS": "", "WTR_DEPTH": "", "AR": "GC", "BLOCK": "507", "WELL_NO": "2", "PROSPECT": "Ness Deep", "COBALT": "N", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -90.805468, 27.475805 ] } }
+,
+{ "type": "Feature", "id": 67, "properties": { "shapeid": "67", "key": "DA", "TYPE": "drilling", "PLAY": "", "NAME": "Ensco 8505", "AREA": "", "STATUS": "", "OPERATOR": "Anadarko", "PARTNERS": "", "WTR_DEPTH": "", "AR": "WR", "BLOCK": "51", "WELL_NO": "2", "PROSPECT": "Shenandoah", "COBALT": "N", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -91.580157, 26.909457 ] } }
+,
+{ "type": "Feature", "id": 68, "properties": { "shapeid": "68", "key": "DA", "TYPE": "drilling", "PLAY": "", "NAME": "Discoverer Americas", "AREA": "", "STATUS": "", "OPERATOR": "Statoil", "PARTNERS": "", "WTR_DEPTH": "", "AR": "GC", "BLOCK": "36", "WELL_NO": "2", "PROSPECT": "Candy Bars", "COBALT": "N", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -90.164760, 27.944242 ] } }
+,
+{ "type": "Feature", "id": 69, "properties": { "shapeid": "69", "key": "DA", "TYPE": "drilling", "PLAY": "", "NAME": "Ensco 8503", "AREA": "", "STATUS": "", "OPERATOR": "Cobalt", "PARTNERS": "", "WTR_DEPTH": "", "AR": "GB", "BLOCK": "959", "WELL_NO": "1", "PROSPECT": "North Platte", "COBALT": "N", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -92.240879, 27.053115 ] } }
+,
+{ "type": "Feature", "id": 70, "properties": { "shapeid": "70", "key": "DA", "TYPE": "drilling", "PLAY": "", "NAME": "Maersk Developer", "AREA": "", "STATUS": "", "OPERATOR": "Marathon", "PARTNERS": "", "WTR_DEPTH": "", "AR": "MC", "BLOCK": "993", "WELL_NO": "1", "PROSPECT": "Innsbruck", "COBALT": "N", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -88.725215, 27.978740 ] } }
+,
+{ "type": "Feature", "id": 71, "properties": { "shapeid": "71", "key": "DA", "TYPE": "drilling", "PLAY": "", "NAME": "Pacific Santa Ana", "AREA": "", "STATUS": "", "OPERATOR": "Chevron", "PARTNERS": "", "WTR_DEPTH": "", "AR": "WR", "BLOCK": "98", "WELL_NO": "1", "PROSPECT": "Coronado 2", "COBALT": "N", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -91.437800, 26.846374 ] } }
+,
+{ "type": "Feature", "id": 72, "properties": { "shapeid": "72", "key": "DA", "TYPE": "drilling", "PLAY": "", "NAME": "Noble Danny Adkins", "AREA": "", "STATUS": "", "OPERATOR": "Shell", "PARTNERS": "", "WTR_DEPTH": "", "AR": "WR", "BLOCK": "507", "WELL_NO": "1", "PROSPECT": "Stones", "COBALT": "N", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -90.783469, 26.448948 ] } }
+,
+{ "type": "Feature", "id": 73, "properties": { "shapeid": "73", "key": "DA", "TYPE": "drilling", "PLAY": "", "NAME": "Noble Globetrotter", "AREA": "", "STATUS": "", "OPERATOR": "Shell", "PARTNERS": "", "WTR_DEPTH": "", "AR": "WR", "BLOCK": "95", "WELL_NO": "1", "PROSPECT": "Yucatan North", "COBALT": "N", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -91.586631, 26.863506 ] } }
+,
+{ "type": "Feature", "id": 74, "properties": { "shapeid": "74", "key": "DA", "TYPE": "drilling", "PLAY": "", "NAME": "Ensco 8501", "AREA": "", "STATUS": "", "OPERATOR": "Noble", "PARTNERS": "", "WTR_DEPTH": "", "AR": "MC", "BLOCK": "698", "WELL_NO": "1", "PROSPECT": "Big Bend", "COBALT": "N", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -88.110078, 28.287592 ] } }
+,
+{ "type": "Feature", "id": 75, "properties": { "shapeid": "75", "key": "DA", "TYPE": "drilling", "PLAY": "", "NAME": "Dw Champion", "AREA": "", "STATUS": "", "OPERATOR": "Exxonmobil", "PARTNERS": "", "WTR_DEPTH": "", "AR": "WR", "BLOCK": "674", "WELL_NO": "1", "PROSPECT": "Hummer Shallow", "COBALT": "N", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -91.259478, 26.305184 ] } }
+,
+{ "type": "Feature", "id": 76, "properties": { "shapeid": "76", "key": "DA", "TYPE": "drilling", "PLAY": "", "NAME": "Maersk Developer", "AREA": "", "STATUS": "", "OPERATOR": "Anadarko", "PARTNERS": "", "WTR_DEPTH": "", "AR": "SE", "BLOCK": "39", "WELL_NO": "1", "PROSPECT": "Phobos", "COBALT": "N", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -92.022788, 25.946852 ] } }
+,
+{ "type": "Feature", "id": 77, "properties": { "shapeid": "77", "key": "DA", "TYPE": "drilling", "PLAY": "", "NAME": "Jim Day", "AREA": "", "STATUS": "", "OPERATOR": "Repsol", "PARTNERS": "", "WTR_DEPTH": "", "AR": "KC", "BLOCK": "686", "WELL_NO": "1", "PROSPECT": "Leon", "COBALT": "N", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -92.665213, 26.296388 ] } }
+,
+{ "type": "Feature", "id": 78, "properties": { "shapeid": "78", "key": "DA", "TYPE": "drilling", "PLAY": "", "NAME": "Discoverer India", "AREA": "", "STATUS": "", "OPERATOR": "Chevron", "PARTNERS": "", "WTR_DEPTH": "", "AR": "KC", "BLOCK": "829", "WELL_NO": "1", "PROSPECT": "Buckskin", "COBALT": "N", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -92.123880, 26.166153 ] } }
+,
+{ "type": "Feature", "id": 79, "properties": { "shapeid": "79", "key": "FD", "TYPE": "discovery", "PLAY": "", "NAME": "Big Foot", "AREA": "", "STATUS": "Field Discovery", "OPERATOR": "Chevron", "PARTNERS": "", "WTR_DEPTH": "", "AR": "WR", "BLOCK": "29", "WELL_NO": "", "PROSPECT": "", "COBALT": "N", "DISC_DATE": "2006\/01\/01", "LOCATION": "WR 29" }, "geometry": { "type": "Point", "coordinates": [ -90.525254, 26.929073 ] } }
+,
+{ "type": "Feature", "id": 80, "properties": { "shapeid": "80", "key": "FD", "TYPE": "discovery", "PLAY": "", "NAME": "Caesar\/Tonga", "AREA": "", "STATUS": "Field Discovery", "OPERATOR": "Anadarko", "PARTNERS": "", "WTR_DEPTH": "", "AR": "GC", "BLOCK": "683", "WELL_NO": "", "PROSPECT": "", "COBALT": "N", "DISC_DATE": "2003\/11\/01", "LOCATION": "GC 683\/GC 727" }, "geometry": { "type": "Point", "coordinates": [ -90.838216, 27.242251 ] } }
+,
+{ "type": "Feature", "id": 81, "properties": { "shapeid": "81", "key": "FD", "TYPE": "discovery", "PLAY": "", "NAME": "Conquest", "AREA": "", "STATUS": "Field Discovery", "OPERATOR": "Anadarko", "PARTNERS": "", "WTR_DEPTH": "", "AR": "GC", "BLOCK": "767", "WELL_NO": "", "PROSPECT": "", "COBALT": "N", "DISC_DATE": "2004\/08\/21", "LOCATION": "GC 767" }, "geometry": { "type": "Point", "coordinates": [ -90.999691, 27.219052 ] } }
+,
+{ "type": "Feature", "id": 82, "properties": { "shapeid": "82", "key": "FD", "TYPE": "discovery", "PLAY": "", "NAME": "Constitution", "AREA": "", "STATUS": "Field Discovery", "OPERATOR": "Anadarko", "PARTNERS": "", "WTR_DEPTH": "", "AR": "GC", "BLOCK": "680", "WELL_NO": "", "PROSPECT": "", "COBALT": "N", "DISC_DATE": "2001\/11\/05", "LOCATION": "GC 680" }, "geometry": { "type": "Point", "coordinates": [ -90.967011, 27.287916 ] } }
+,
+{ "type": "Feature", "id": 83, "properties": { "shapeid": "83", "key": "FD", "TYPE": "discovery", "PLAY": "", "NAME": "Friesian", "AREA": "", "STATUS": "Field Discovery", "OPERATOR": "Plains", "PARTNERS": "", "WTR_DEPTH": "", "AR": "GC", "BLOCK": "599", "WELL_NO": "", "PROSPECT": "", "COBALT": "N", "DISC_DATE": "2006\/11\/27", "LOCATION": "GC 599" }, "geometry": { "type": "Point", "coordinates": [ -90.604987, 27.349623 ] } }
+,
+{ "type": "Feature", "id": 84, "properties": { "shapeid": "84", "key": "DI", "TYPE": "discovery", "PLAY": "Miocene", "NAME": "Heidelberg", "AREA": "", "STATUS": "Discovery", "OPERATOR": "Anadarko", "PARTNERS": "Anadarko, ExxonMobil, Eni, Mariner, Statoil", "WTR_DEPTH": "5,500 ft", "AR": "GC", "BLOCK": "859", "WELL_NO": "", "PROSPECT": "", "COBALT": "Y", "DISC_DATE": "2009\/02\/02", "LOCATION": "GC 859" }, "geometry": { "type": "Point", "coordinates": [ -90.796414, 27.092408 ] } }
+,
+{ "type": "Feature", "id": 85, "properties": { "shapeid": "85", "key": "FD", "TYPE": "discovery", "PLAY": "", "NAME": "Holstein", "AREA": "", "STATUS": "Field Discovery", "OPERATOR": "BP", "PARTNERS": "", "WTR_DEPTH": "", "AR": "GC", "BLOCK": "644", "WELL_NO": "", "PROSPECT": "", "COBALT": "N", "DISC_DATE": "1999\/02\/11", "LOCATION": "GC 644" }, "geometry": { "type": "Point", "coordinates": [ -90.540546, 27.322771 ] } }
+,
+{ "type": "Feature", "id": 86, "properties": { "shapeid": "86", "key": "FD", "TYPE": "discovery", "PLAY": "", "NAME": "Kaskida", "AREA": "", "STATUS": "Field Discovery", "OPERATOR": "BP", "PARTNERS": "", "WTR_DEPTH": "", "AR": "KC", "BLOCK": "292", "WELL_NO": "", "PROSPECT": "", "COBALT": "N", "DISC_DATE": "2006\/05\/31", "LOCATION": "KC 292" }, "geometry": { "type": "Point", "coordinates": [ -92.596874, 26.686639 ] } }
+,
+{ "type": "Feature", "id": 87, "properties": { "shapeid": "87", "key": "FD", "TYPE": "discovery", "PLAY": "", "NAME": "Mad Dog", "AREA": "", "STATUS": "Field Discovery", "OPERATOR": "BP", "PARTNERS": "", "WTR_DEPTH": "", "AR": "GC", "BLOCK": "826", "WELL_NO": "", "PROSPECT": "", "COBALT": "N", "DISC_DATE": "1998\/12\/29", "LOCATION": "GC 826" }, "geometry": { "type": "Point", "coordinates": [ -90.284053, 27.176971 ] } }
+,
+{ "type": "Feature", "id": 88, "properties": { "shapeid": "88", "key": "DI", "TYPE": "discovery", "PLAY": "Lower Tertiary", "NAME": "Shenandoah", "AREA": "", "STATUS": "Discovery", "OPERATOR": "Anadarko", "PARTNERS": "Anadarko, ConocoPhillips, Marathon", "WTR_DEPTH": "5,800 ft", "AR": "WR", "BLOCK": "52", "WELL_NO": "", "PROSPECT": "", "COBALT": "Y", "DISC_DATE": "2009\/02\/04", "LOCATION": "WR 52" }, "geometry": { "type": "Point", "coordinates": [ -91.570043, 26.920840 ] } }
+,
+{ "type": "Feature", "id": 89, "properties": { "shapeid": "89", "key": "FD", "TYPE": "discovery", "PLAY": "", "NAME": "Tahiti", "AREA": "", "STATUS": "Field Discovery", "OPERATOR": "Chevron", "PARTNERS": "", "WTR_DEPTH": "", "AR": "GC", "BLOCK": "640", "WELL_NO": "", "PROSPECT": "", "COBALT": "N", "DISC_DATE": "2002\/04\/11", "LOCATION": "GC 640" }, "geometry": { "type": "Point", "coordinates": [ -90.745498, 27.345614 ] } }
+,
+{ "type": "Feature", "id": 90, "properties": { "shapeid": "90", "key": "FD", "TYPE": "discovery", "PLAY": "", "NAME": "Tiber", "AREA": "", "STATUS": "Field Discovery", "OPERATOR": "BP", "PARTNERS": "", "WTR_DEPTH": "", "AR": "KC", "BLOCK": "102", "WELL_NO": "", "PROSPECT": "", "COBALT": "N", "DISC_DATE": "2009\/08\/27", "LOCATION": "KC 102" }, "geometry": { "type": "Point", "coordinates": [ -93.268079, 26.867491 ] } }
+,
+{ "type": "Feature", "id": 91, "properties": { "shapeid": "91", "key": "FD", "TYPE": "discovery", "PLAY": "", "NAME": "Ticonderoga", "AREA": "", "STATUS": "Field Discovery", "OPERATOR": "Anadarko", "PARTNERS": "", "WTR_DEPTH": "", "AR": "GC", "BLOCK": "768", "WELL_NO": "", "PROSPECT": "", "COBALT": "N", "DISC_DATE": "2004\/04\/12", "LOCATION": "GC 768" }, "geometry": { "type": "Point", "coordinates": [ -90.960804, 27.217928 ] } }
+,
+{ "type": "Feature", "id": 92, "properties": { "shapeid": "92", "key": "LT", "TYPE": "plays", "PLAY": "Lower Tertiary", "NAME": "Ardennes", "AREA": "Green Canyon", "STATUS": "Permitted", "OPERATOR": "Cobalt", "PARTNERS": "TOTAL, ConocoPhillips", "WTR_DEPTH": "5,340 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -91.167401, 27.085168 ] } }
+,
+{ "type": "Feature", "id": 93, "properties": { "shapeid": "93", "key": "LT", "TYPE": "plays", "PLAY": "Lower Tertiary", "NAME": "Kabarda", "AREA": "Keathley Canyon", "STATUS": "Prospect", "OPERATOR": "Nexen", "PARTNERS": "Nexen, TOTAL", "WTR_DEPTH": "4,364 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -92.845174, 26.881703 ] } }
+,
+{ "type": "Feature", "id": 94, "properties": { "shapeid": "94", "key": "LT", "TYPE": "plays", "PLAY": "Lower Tertiary", "NAME": "Campolina", "AREA": "Keathley Canyon", "STATUS": "Prospect", "OPERATOR": "Nexen", "PARTNERS": "Nexen, TOTAL", "WTR_DEPTH": "5,210 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -92.769829, 26.589211 ] } }
+,
+{ "type": "Feature", "id": 95, "properties": { "shapeid": "95", "key": "LT", "TYPE": "plays", "PLAY": "Lower Tertiary", "NAME": "Percheron", "AREA": "Green Canyon", "STATUS": "Prospect", "OPERATOR": "Cobalt", "PARTNERS": "TOTAL", "WTR_DEPTH": "5,700 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -90.309332, 27.018243 ] } }
+,
+{ "type": "Feature", "id": 96, "properties": { "shapeid": "96", "key": "LT", "TYPE": "plays", "PLAY": "Lower Tertiary", "NAME": "Racer", "AREA": "Green Canyon", "STATUS": "Prospect", "OPERATOR": "BHP", "PARTNERS": "BHP, TOTAL", "WTR_DEPTH": "4,400 ft", "AR": "", "BLOCK": "", "WELL_NO": "", "PROSPECT": "", "COBALT": "", "DISC_DATE": "", "LOCATION": "" }, "geometry": { "type": "Point", "coordinates": [ -91.250271, 27.189717 ] } }
+
+]
+}
