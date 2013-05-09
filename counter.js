@@ -5,6 +5,22 @@ $(document).ready(function() {
     //on load, cycle through numbers to data
     var mp = setInterval(function () {
                 minutePlay()
+                
+            }, 60);
+    var sp = setInterval(function () {
+                secondPlay()
+            }, 90);
+    var ml = setInterval(function () {
+                milliPlay()
+            }, 120); 
+    var mp2 = setInterval(function () {
+                minutePlay2()
+            }, 70);
+    var sp2 = setInterval(function () {
+                secondPlay2()
+            }, 100);
+    var ml2 = setInterval(function () {
+                milliPlay2();
                 //step through time to get to 8 times (there are 7 li's in html)
                 timesRun += 1;
 
@@ -17,22 +33,7 @@ $(document).ready(function() {
                     clearInterval(sp2);
                     clearInterval(ml2);
                 }
-            }, 140);
-    var sp = setInterval(function () {
-                secondPlay()
-            }, 130);
-    var ml = setInterval(function () {
-                milliPlay()
-            }, 110); 
-    var mp2 = setInterval(function () {
-                minutePlay2()
-            }, 90);
-    var sp2 = setInterval(function () {
-                secondPlay2()
-            }, 70);
-    var ml2 = setInterval(function () {
-                milliPlay2();
-            }, 60);   
+            }, 140);   
 
 //on select, cycle through numbers to new data
   $('select').change(function (e){
@@ -52,8 +53,26 @@ $(document).ready(function() {
     
     var mp = setInterval(function () {
                 minutePlay()
-                //step through time to get to 6 times
+                
+            }, 60);
+    var sp = setInterval(function () {
+                secondPlay()
+            }, 90);
+    var ml = setInterval(function () {
+                milliPlay()
+            }, 120); 
+    var mp2 = setInterval(function () {
+                minutePlay2()
+            }, 70);
+    var sp2 = setInterval(function () {
+                secondPlay2()
+            }, 100);
+    var ml2 = setInterval(function () {
+                milliPlay2();
+                //step through time to get to 8 times (there are 7 li's in html)
                 timesRun += 1;
+
+                //when it gets to 8 times, chop it off.     
                 if(timesRun === 8){
                     clearInterval(mp);
                     clearInterval(sp);
@@ -62,22 +81,7 @@ $(document).ready(function() {
                     clearInterval(sp2);
                     clearInterval(ml2);
                 }
-            }, 140);
-    var sp = setInterval(function () {
-                secondPlay()
-            }, 130);
-    var ml = setInterval(function () {
-                milliPlay()
-            }, 110); 
-    var mp2 = setInterval(function () {
-                minutePlay2()
-            }, 90);
-    var sp2 = setInterval(function () {
-                secondPlay2()
-            }, 70);
-    var ml2 = setInterval(function () {
-                milliPlay2();
-            }, 60);                  
+            }, 140);                  
     });
 
 
