@@ -6,6 +6,7 @@
     -moz-box-sizing: border-box;
     -o-box-sizing: border-box;
     box-sizing: border-box;
+    
 }
 
 a {
@@ -37,37 +38,159 @@ ul {
 }
 
 /* Main */
+@font-face {
+    font-family: avenir;
+    src: local(avenir), url('font/Avenir+65+Medium.ttf') format('opentype');
+}
+
+@font-face {
+    font-family: avenir;
+    font-weight: 300;
+    src: local(avenir), url('font/Avenir+35+Light.ttf') format('opentype');
+}
+
+@font-face {
+    font-family: avenir;
+    font-weight: bold;
+    src: local(avenir), url('font/Avenir+85+Heavy.ttf') format('opentype');
+}
 
 html, body {
     min-height: 100%;
+
 }
 
 body {
-    font: normal 11px "Helvetica Neue", Helvetica, sans-serif;
+    font-family: avenir;
     -webkit-user-select: none;
     color: #dddddd;
     text-shadow: 0 1px 0 rgba(0, 0, 0, .3);
     background: rgb(150, 150, 150);
-    background: -moz-radial-gradient(center, ellipse cover, rgba(150, 150, 150, 1) 0%, rgba(89, 89, 89, 1) 100%);
-    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(150, 150, 150, 1)), color-stop(100%, rgba(89, 89, 89, 1)));
-    background: -webkit-radial-gradient(center, ellipse cover, rgba(150, 150, 150, 1) 0%, rgba(89, 89, 89, 1) 100%);
-    background: -o-radial-gradient(center, ellipse cover, rgba(150, 150, 150, 1) 0%, rgba(89, 89, 89, 1) 100%);
-    background: -ms-radial-gradient(center, ellipse cover, rgba(150, 150, 150, 1) 0%, rgba(89, 89, 89, 1) 100%);
-    background: radial-gradient(ellipse at center, rgba(150, 150, 150, 1) 0%, rgba(89, 89, 89, 1) 100%);
+    background: -moz-radial-gradient(center, ellipse cover, rgba(100, 100, 100, 1) 0%, rgba(40, 40, 40, 1) 100%);
+    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(100, 100, 100, 1)), color-stop(100%, rgba(40, 40, 40, 1)));
+    background: -webkit-radial-gradient(center, ellipse cover, rgba(100, 100, 100, 1) 0%, rgba(40, 40, 40, 1) 100%);
+    background: -o-radial-gradient(center, ellipse cover, rgba(100, 100, 100, 1) 0%, rgba(40, 40, 40, 1) 100%);
+    background: -ms-radial-gradient(center, ellipse cover, rgba(100, 100, 100, 1) 0%, rgba(40, 40, 40, 1) 100%);
+    background: radial-gradient(ellipse at center, rgba(100, 100, 100, 1) 0%, rgba(40, 40, 40, 1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr = '#969696', endColorstr = '#595959', GradientType = 1);
 
 }
 
+/*typography*/
+
+h1 {
+font-size: 34px;
+font-weight: 300;
+}
+
+h2 {
+font-size: 26px;
+font-weight: 400;
+color:#93C528;
+margin-bottom: 10px;
+}
+
+h3 {
+font-size: 26px;
+font-weight: 400;
+margin-bottom: 10px;
+}
+
+p {
+font-size: 22px;
+font-weight: 300;
+margin-bottom: 30px;
+}
+
+.green {
+    color:#93C528;
+    font-weight: 700;
+}
+
+/*divs*/
+#body_cont {
+    position: relative;
+    width: 880px;
+}
+
+#top_cont {
+    background-color: rgb(60,60,60);
+    background-color: rgba(50,50,50,0.25);
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    border-bottom: 13px solid #303031;
+}
+
+#left_cont {
+    width:50%;
+    float: left;
+    margin-top:60px;
+    position: relative;
+}
+
+#right_cont {
+    float: right;
+    width: 50%;
+    margin-top:25px;
+    border-left: 1px solid #4DB33D;
+
+}
+
+#left_text {
+    margin-left: 100px;
+    margin-right: 25px;
+}
+
+#right_text {
+    margin-right:50px;
+    margin-left: 50px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    text-align: center;
+
+}
+
+.price {
+    margin-right: 20px;
+    margin-left: 40px;
+    position: relative;
+    height:100px;
+    border-top: 1px solid #4DB33D;
+}
+.price:last-child {
+    border-bottom: 1px solid #4DB33D;
+    padding-bottom: 100px;
+}
+
+.price_text {
+    bottom: -40px;
+    left: 10px;
+    width: 100px;
+    float: left;
+    position: relative;
+}
+
+.subprice {
+    position: absolute;
+    top: 0px;
+    right: -15px;
+    width: 230px;
+}
+
+#price2 {
+    clear: both;
+}
+/*
 .container {
+    border:5px solid black;
     text-align: center;
     position: absolute;
     width: 230px;
-   /* left: 50%;
+    left: 50%;
     top: 50%;
-   
-    height: 90px;
-    margin: -45px 0 0 -70px;*/
-  }
+    margin: 10px 0 0 -110px;
+  }*/
 
 /*decimal*/
 .decimal {

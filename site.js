@@ -41,9 +41,9 @@ $(document).ready(function() {
                 html2[4].innerHTML=tenthsE;
                 html2[5].innerHTML=hundrethsE;
 
-                html2[6].innerHTML=data.features[0].state;
-                html2[7].innerHTML="The price of gasoline is <strong>$"+data.features[0].regular+"</strong> per gallon.";
-                html2[8].innerHTML="The price of electricity is <strong>$"+data.features[0].eproxy+"</strong> per egallon.";
+//                html2[6].innerHTML=data.features[0].state;
+//                html2[7].innerHTML="The price of gasoline is <strong>$"+data.features[0].regular+"</strong> per gallon.";
+//                html2[8].innerHTML="The price of electricity is <strong>$"+data.features[0].eproxy+"</strong> per egallon.";
 
 
         //what happens when you select a state
