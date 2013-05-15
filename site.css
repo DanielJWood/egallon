@@ -60,44 +60,54 @@ html, body {
 
 }
 
+html { 
+  background: rgb(70, 70, 70);
+  background: url(img/egallon_bg.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
 body {
     font-family: avenir;
     -webkit-user-select: none;
     color: #dddddd;
     text-shadow: 0 1px 0 rgba(0, 0, 0, .3);
-    background: rgb(150, 150, 150);
+    /*
     background: -moz-radial-gradient(center, ellipse cover, rgba(100, 100, 100, 1) 0%, rgba(40, 40, 40, 1) 100%);
     background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(100, 100, 100, 1)), color-stop(100%, rgba(40, 40, 40, 1)));
     background: -webkit-radial-gradient(center, ellipse cover, rgba(100, 100, 100, 1) 0%, rgba(40, 40, 40, 1) 100%);
     background: -o-radial-gradient(center, ellipse cover, rgba(100, 100, 100, 1) 0%, rgba(40, 40, 40, 1) 100%);
     background: -ms-radial-gradient(center, ellipse cover, rgba(100, 100, 100, 1) 0%, rgba(40, 40, 40, 1) 100%);
     background: radial-gradient(ellipse at center, rgba(100, 100, 100, 1) 0%, rgba(40, 40, 40, 1) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr = '#969696', endColorstr = '#595959', GradientType = 1);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr = '#969696', endColorstr = '#595959', GradientType = 1);*/
 
 }
 
 /*typography*/
 
 h1 {
-font-size: 34px;
+font-size: 30px;
 font-weight: 300;
 }
 
 h2 {
-font-size: 26px;
+font-size: 24px;
 font-weight: 400;
 color:#93C528;
 margin-bottom: 10px;
 }
 
 h3 {
-font-size: 26px;
+font-size: 24px;
 font-weight: 400;
 margin-bottom: 10px;
 }
 
 p {
-font-size: 22px;
+font-size: 20px;
 font-weight: 300;
 margin-bottom: 30px;
 }
@@ -110,7 +120,7 @@ margin-bottom: 30px;
 /*divs*/
 #body_cont {
     position: relative;
-    width: 880px;
+    width: 820px;
 }
 
 #top_cont {
@@ -125,7 +135,8 @@ margin-bottom: 30px;
 #left_cont {
     width:50%;
     float: left;
-    margin-top:60px;
+    margin-top:50px;
+
     position: relative;
 }
 
@@ -137,9 +148,13 @@ margin-bottom: 30px;
 
 }
 
-#left_text {
-    margin-left: 100px;
-    margin-right: 25px;
+.left_text {
+    padding-top:5px;
+    padding-bottom: 5px;
+    padding-left: 83px;
+    margin-left: 30px;
+    margin-right: 35px;
+    background-repeat: no-repeat;
 }
 
 #right_text {
@@ -149,6 +164,14 @@ margin-bottom: 30px;
     padding-bottom: 20px;
     text-align: center;
 
+}
+
+#gauge {
+    background-image: url('img/gauge.png');
+}
+
+#pump {
+    background-image: url('img/pump.png');
 }
 
 .price {
@@ -164,7 +187,7 @@ margin-bottom: 30px;
 }
 
 .price_text {
-    bottom: -40px;
+    bottom: -46px;
     left: 10px;
     width: 100px;
     float: left;
@@ -176,6 +199,7 @@ margin-bottom: 30px;
     top: 0px;
     right: -15px;
     width: 230px;
+    font-family: Helvetica;
 }
 
 #price2 {
