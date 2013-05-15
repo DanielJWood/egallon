@@ -120,7 +120,7 @@ margin-bottom: 30px;
 /*divs*/
 #body_cont {
     position: relative;
-    width: 820px;
+    width: 820px;    
 }
 
 #top_cont {
@@ -145,6 +145,7 @@ margin-bottom: 30px;
     width: 50%;
     margin-top:25px;
     border-left: 1px solid #4DB33D;
+
 
 }
 
@@ -174,6 +175,16 @@ margin-bottom: 30px;
     background-image: url('img/pump.png');
 }
 
+#fold img{
+    z-index: 100;
+    margin-top: 30px;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    padding-bottom: 0px !important;
+    margin-bottom: 0px !important;
+}
+
 .price {
     margin-right: 20px;
     margin-left: 40px;
@@ -199,7 +210,6 @@ margin-bottom: 30px;
     top: 0px;
     right: -15px;
     width: 230px;
-    font-family: Helvetica;
 }
 
 #price2 {
