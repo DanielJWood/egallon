@@ -1,13 +1,13 @@
 
 $(document).ready(function() {
 //Load state price json
-      $.getJSON('data/price.json',  function(data) {
+      $.getJSON('data/electric.json',  function(data) {
       //$.getJSON('https://cms.doe.gov/sites/prod/files/price.json',  function(data) {
         //Populate select dropdown menu
         var mySelect = $('#mySelect');
-            $.each(data.features, function(i) {
+            $.each(data, function(i) {
               mySelect.append(
-                $('<option></option>').val(data.features[i].stateabbrev).html(data.features[i].state)
+                $('<option></option>').val(data[i].stateabbrev).html(data[i].state)
             );
         });
 
@@ -30,9 +30,9 @@ $(document).ready(function() {
                 var tenthsG = String(gas_data[0].price).charAt(2);
                 var hundrethsG = String(gas_data[0].price).charAt(3);
                                 
-                var onesE = String(data.features[0].eproxy).charAt(0);
-                var tenthsE = String(data.features[0].eproxy).charAt(2);
-                var hundrethsE = String(data.features[0].eproxy).charAt(3);
+                var onesE = String(data[0].eproxy).charAt(0);
+                var tenthsE = String(data[0].eproxy).charAt(2);
+                var hundrethsE = String(data[0].eproxy).charAt(3);
 
                 //put those characters collected into the appropriate innerHTML
 
@@ -53,14 +53,14 @@ $(document).ready(function() {
         //what happens when you select a state
             $('select').change(function (e){
             e.preventDefault();
-            for (var i=0;i<data.features.length;i++)
+            for (var i=0;i<data.length;i++)
             {
                 //When the value selected equals the JSONs state abbreviation, gather the data at specific characters
-                if (this.value === data.features[i].stateabbrev) {
+                if (this.value === data[i].stateabbrev) {
                                     
-                    var onesE = String(data.features[i].eproxy).charAt(0);
-                    var tenthsE = String(data.features[i].eproxy).charAt(2);
-                    var hundrethsE = String(data.features[i].eproxy).charAt(3);
+                    var onesE = String(data[i].eproxy).charAt(0);
+                    var tenthsE = String(data[i].eproxy).charAt(2);
+                    var hundrethsE = String(data[i].eproxy).charAt(3);
 
                     //put those characters collected into the appropriate innerHTML
 
