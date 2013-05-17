@@ -61,8 +61,10 @@ html, body {
 }
 
 html { 
-  background: rgb(70, 70, 70);
-  background: url(img/egallon_bg.png) no-repeat center center fixed; 
+  /*background: rgb(70, 70, 70);
+  background: url(img/egallon_bg.png) no-repeat center center fixed; */
+  background:rgb(70,70,70) url(img/egallon_bg.png) fixed; 
+
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -88,25 +90,25 @@ body {
 
 /*typography*/
 
-h1 {
+#body_cont h1 {
 font-size: 30px;
 font-weight: 300;
 }
 
-h2 {
+#body_cont h2 {
 font-size: 24px;
 font-weight: 400;
 color:#93C528;
 margin-bottom: 10px;
 }
 
-h3 {
+#body_cont h3 {
 font-size: 24px;
 font-weight: 400;
 margin-bottom: 10px;
 }
 
-p {
+#body_cont p {
 font-size: 20px;
 font-weight: 300;
 margin-bottom: 30px;

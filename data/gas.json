@@ -1,0 +1,97 @@
+[
+	{
+		"loc": "US",
+		"loc_abbrev": "US",
+		"price": "3.603"
+	},
+	{
+		"loc": "East Coast",
+		"loc_abbrev": "EC",
+		"price": "3.484"
+	},
+	{
+		"loc": "New England",
+		"loc_abbrev": "NE",
+		"price": "3.551"
+	},
+	{
+		"loc": "Central Atlantic",
+		"loc_abbrev": "CAT",
+		"price": "3.522"
+	},
+	{
+		"loc": "Lower Atlantic",
+		"loc_abbrev": "LAT",
+		"price": "3.435"
+	},
+	{
+		"loc": "Midwest",
+		"loc_abbrev": "MW",
+		"price": "3.678"
+	},
+	{
+		"loc": "Gulf Coast",
+		"loc_abbrev": "GC",
+		"price": "3.364"
+	},
+	{
+		"loc": "Rocky Mountain",
+		"loc_abbrev": "RM",
+		"price": "3.56"
+	},
+	{
+		"loc": "West Coast",
+		"loc_abbrev": "WC",
+		"price": "3.938"
+	},
+	{
+		"loc": "West Coast less California",
+		"loc_abbrev": "WCLC",
+		"price": "3.762"
+	},
+	{
+		"loc": "California",
+		"loc_abbrev": "CA",
+		"price": "4.04"
+	},
+	{
+		"loc": "Colorado",
+		"loc_abbrev": "CO",
+		"price": "3.654"
+	},
+	{
+		"loc": "Florida",
+		"loc_abbrev": "FL",
+		"price": "3.452"
+	},
+	{
+		"loc": "Massachusetts",
+		"loc_abbrev": "MA",
+		"price": "3.463"
+	},
+	{
+		"loc": "Minnesota",
+		"loc_abbrev": "MN",
+		"price": "3.857"
+	},
+	{
+		"loc": "New York",
+		"loc_abbrev": "NY",
+		"price": "3.696"
+	},
+	{
+		"loc": "Ohio",
+		"loc_abbrev": "OH",
+		"price": "3.548"
+	},
+	{
+		"loc": "Texas",
+		"loc_abbrev": "TX",
+		"price": "3.386"
+	},
+	{
+		"loc": "Washington",
+		"loc_abbrev": "WA",
+		"price": "3.939"
+	}
+]
