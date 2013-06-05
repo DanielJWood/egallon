@@ -1,4 +1,11 @@
 [
+	
+	{
+		"state": "US Average",
+		"stateabbrev": "US",
+		"electric_raw": "11.47",
+		"eproxy": "1.174528"
+	},
 	{
 		"state": "Alabama",
 		"stateabbrev": "AL",
@@ -304,11 +311,5 @@
 		"stateabbrev": "WY",
 		"electric_raw": "9.51",
 		"eproxy": "0.973824"
-	},
-	{
-		"state": "US Average",
-		"stateabbrev": "US",
-		"electric_raw": "11.47",
-		"eproxy": "1.174528"
 	}
 ]
