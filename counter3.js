@@ -38,11 +38,8 @@ $(document).ready(function() {
                 //step through time to get to 8 times (there are 7 li's in html)
                 timesRun += 1;
 
-                //control number of times through
-                if (is_ie10 === true) {num = 2} else{num = 8};
-
                 //when it gets to 8 times, chop it off.     
-                if(timesRun === num){
+                if(timesRun === 8){
                     clearInterval(mp);
                     clearInterval(sp);
                     clearInterval(ml);
@@ -89,11 +86,8 @@ $(document).ready(function() {
                 //step through time to get to 8 times (there are 7 li's in html)
                 timesRun += 1;
 
-                //control number of times through
-                if (is_ie10 === true) {num = 2} else{num = 8};
-
                 //when it gets to 8 times, chop it off.     
-                if(timesRun === num){
+                if(timesRun === 8){
                     clearInterval(mp);
                     clearInterval(sp);
                     clearInterval(ml);
