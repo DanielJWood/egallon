@@ -10,7 +10,7 @@ $(document).ready(function() {
             }, 60);
     var sp = setInterval(function () {
                 secondPlay()
-            }, 90);
+            }, 9);
     var ml = setInterval(function () {
                 milliPlay()
             }, 120); 
@@ -19,7 +19,7 @@ $(document).ready(function() {
             }, 70);
     var sp2 = setInterval(function () {
                 secondPlay2()
-            }, 100);
+            }, 1);
     var ml2 = setInterval(function () {
                 milliPlay2();
                 //step through time to get to 8 times (there are 7 li's in html)
