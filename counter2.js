@@ -54,7 +54,7 @@ $(document).ready(function() {
     
     var mp = setInterval(function () {
                 minutePlay()
-                
+                    
             }, 500);
     var sp = setInterval(function () {
                 secondPlay()
