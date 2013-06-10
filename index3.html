@@ -16,24 +16,21 @@
 -->
 <script type="text/javascript">
 
-var ie = (function(){
+function getIEVersion(){
+    var agent = navigator.userAgent;
+    var reg = /MSIE\s?(\d+)(?:\.(\d+))?/i;
+    var matches = agent.match(reg);
+    if (matches != null) {
+        return { major: matches[1], minor: matches[2] };
+    }
+    return { major: "-1", minor: "-1" };
+}
 
-    var undef,
-        v = 3,
-        div = document.createElement('div'),
-        all = div.getElementsByTagName('i');
+var ie_version =  getIEVersion();
+var is_ie10 = ie_version.major == 10;
 
-    while (
-        div.innerHTML = '<!--[if gt IE ' + (++v) + ']><i></i><![endif]-->',
-        all[0]
-    );
+console.log(is_ie10);
 
-    return v > 4 ? v : undef;
-
-}());
-
-console.log(ie);
-alert('version of ie is ' + ie);
 
 </script>
 </body>
