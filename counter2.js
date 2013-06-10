@@ -7,16 +7,16 @@ $(document).ready(function() {
     var mp = setInterval(function () {
                 minutePlay()
                 
-            }, 60);
+            }, 100);
     var sp = setInterval(function () {
                 secondPlay()
-            }, 90);
+            }, 100);
     var ml = setInterval(function () {
                 milliPlay()
-            }, 120); 
+            }, 100); 
     var mp2 = setInterval(function () {
                 minutePlay2()
-            }, 70);
+            }, 100);
     var sp2 = setInterval(function () {
                 secondPlay2()
             }, 100);
@@ -34,7 +34,7 @@ $(document).ready(function() {
                     clearInterval(sp2);
                     clearInterval(ml2);
                 }
-            }, 140);   
+            }, 100);   
 
 //on select, cycle through numbers to new data
   $('select').change(function (e){
@@ -55,16 +55,16 @@ $(document).ready(function() {
     var mp = setInterval(function () {
                 minutePlay()
                 
-            }, 60);
+            }, 100);
     var sp = setInterval(function () {
                 secondPlay()
-            }, 90);
+            }, 100);
     var ml = setInterval(function () {
                 milliPlay()
-            }, 120); 
+            }, 100); 
     var mp2 = setInterval(function () {
                 minutePlay2()
-            }, 70);
+            }, 100);
     var sp2 = setInterval(function () {
                 secondPlay2()
             }, 100);
@@ -82,7 +82,7 @@ $(document).ready(function() {
                     clearInterval(sp2);
                     clearInterval(ml2);
                 }
-            }, 140);                  
+            }, 100);                  
     });
 
 
