@@ -9,7 +9,7 @@ $(document).ready(function() {
         "electric_raw": "11.59",
         "eproxy": "1.14"
     },
-        {
+    {
         "state": "Alabama",
         "stateabbrev": "AL",
         "electric_raw": "10.97",

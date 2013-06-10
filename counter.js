@@ -1,3 +1,4 @@
+(function ($) {
 $(document).ready(function() {
 
     var timesRun = 0;
@@ -300,3 +301,4 @@ function milliPlay2() {
     }
     
 });
+}(jQuery));

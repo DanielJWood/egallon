@@ -47,7 +47,7 @@ font-size: 30px;
 font-family: 'Avenir LT W02 35 Light',verdana,sans-serif;
 text-transform: none !important;
 line-height: 36px;
-
+color: #fff;
 }
 
 #body_cont h2 {
@@ -65,7 +65,8 @@ font-size: 24px;
 line-height: 29px;
 font-weight: 400;
 margin-bottom: 10px;
-    text-transform: none !important;
+text-transform: none !important;
+color: #fff;
 
 }
 
@@ -74,8 +75,13 @@ font-size: 20px;
 line-height: 24px;
 font-weight: 300;
 margin-bottom: 30px;
-    text-transform: none !important;
+text-transform: none !important;
+color: #fff;
+border-bottom: none !important;
+}
 
+#body_cont p#ptop {
+    margin-right: 15px;
 }
 
 .green {
@@ -91,9 +97,9 @@ margin-bottom: 30px;
     width: 1000px;
     /*width: 700?;
   background: rgb(70, 70, 70);*/
-  background:rgb(70,70,70) url(https://cms.doe.gov/sites/prod/files/egallon_bg.png) fixed; 
+  background:rgb(70,70,70) url('/sites/prod/files/egallon_bg.png') fixed; 
 
-height: 465px;
+height: 480px;
 }
 
 #top_cont {
@@ -141,11 +147,11 @@ height: 465px;
 }
 
 #gauge {
-    background-image: url('https://cms.doe.gov/sites/prod/files/gauge.png');
+    background-image: url('/sites/prod/files/gauge.png');
 }
 
 #pump {
-    background-image: url('https://cms.doe.gov/sites/prod/files/pump.png');
+    background-image: url('/sites/prod/files/pump.png');
 }
 
 #fold img{
@@ -171,7 +177,7 @@ height: 465px;
 }
 
 .price_text {
-    bottom: -46px;
+    bottom: -42px;
     left: 10px;
     width: 100px;
     float: left;
@@ -209,6 +215,7 @@ height: 465px;
     font-size: 70px;
     font-weight: bold;
     line-height: 165px;
+    color: #fff;
 }
 
 
