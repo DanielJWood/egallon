@@ -94,7 +94,6 @@ $(document).ready(function() {
         if (aa.html() == undefined) {
             aa = $("ul.milliPlay li").eq(0);
             aa.addClass("before")
-                //.removeClass("active")
                 .next("li")
                 .addClass("active")
                 .closest("body")
@@ -105,7 +104,6 @@ $(document).ready(function() {
         else if (aa.is(":last-child")) {
             $("ul.milliPlay li").removeClass("before");
             aa.addClass("before").removeClass("active");
-            //aa = $("ul.milliPlay li").eq(0);
             aa.addClass("active")
                 .closest("body")
                 .addClass("play");
@@ -132,7 +130,6 @@ $(document).ready(function() {
         if (aa.html() == undefined) {
             aa = $("ul.secondPlay li").eq(0);
             aa.addClass("before")
-                //.removeClass("active")
                 .next("li")
                 .addClass("active")
                 .closest("body")
@@ -163,9 +160,8 @@ $(document).ready(function() {
         var aa = $("ul.minutePlay li.active");
 
         if (aa.html() == undefined) {
-            aa = $("ul.minutePlay li").eq(5);
+            aa = $("ul.minutePlay li").eq(0);
             aa.addClass("before")
-                //.removeClass("active")
                 .next("li")
                 .addClass("active")
                 .closest("body")
@@ -175,7 +171,6 @@ $(document).ready(function() {
         else if (aa.is(":last-child")) {
             $("ul.minutePlay li").removeClass("before");
             aa.addClass("before").removeClass("active");
-           // aa = $("ul.minutePlay li").eq(0);
             aa.addClass("active")
                 .closest("body")
                 .addClass("play");
@@ -200,7 +195,6 @@ $(document).ready(function() {
         if (aa.html() == undefined) {
             aa = $("ul.secondPlay2 li").eq(0);
             aa.addClass("before")
-                //.removeClass("active")
                 .next("li")
                 .addClass("active")
                 .closest("body")
@@ -231,7 +225,7 @@ $(document).ready(function() {
         var aa = $("ul.minutePlay2 li.active");
 
         if (aa.html() == undefined) {
-            aa = $("ul.minutePlay2 li").eq(6);
+            aa = $("ul.minutePlay2 li").eq(0);
             aa.addClass("before")
                 .next("li")
                 .addClass("active")
@@ -267,7 +261,6 @@ function milliPlay2() {
         if (aa.html() == undefined) {
             aa = $("ul.milliPlay2 li").eq(0);
             aa.addClass("before")
-                //.removeClass("active")
                 .next("li")
                 .addClass("active")
                 .closest("body")
@@ -278,7 +271,6 @@ function milliPlay2() {
         else if (aa.is(":last-child")) {
             $("ul.milliPlay2 li").removeClass("before");
             aa.addClass("before").removeClass("active");
-            //aa = $("ul.milliPlay2 li").eq(0);
             aa.addClass("active")
                 .closest("body")
                 .addClass("play");
