@@ -7,19 +7,19 @@ $(document).ready(function() {
     var mp = setInterval(function () {
                 minutePlay()
                 
-            }, 500);
+            }, 60);
     var sp = setInterval(function () {
                 secondPlay()
-            }, 500);
+            }, 90);
     var ml = setInterval(function () {
                 milliPlay()
-            }, 500); 
+            }, 120); 
     var mp2 = setInterval(function () {
                 minutePlay2()
-            }, 500);
+            }, 70);
     var sp2 = setInterval(function () {
                 secondPlay2()
-            }, 500);
+            }, 100);
     var ml2 = setInterval(function () {
                 milliPlay2();
                 //step through time to get to 8 times (there are 7 li's in html)
@@ -34,7 +34,7 @@ $(document).ready(function() {
                     clearInterval(sp2);
                     clearInterval(ml2);
                 }
-            }, 500);   
+            }, 140);   
 
 //on select, cycle through numbers to new data
   $('select').change(function (e){
@@ -55,19 +55,19 @@ $(document).ready(function() {
     var mp = setInterval(function () {
                 minutePlay()
                 
-            }, 500);
+            }, 60);
     var sp = setInterval(function () {
                 secondPlay()
-            }, 500);
+            }, 90);
     var ml = setInterval(function () {
                 milliPlay()
-            }, 500); 
+            }, 120); 
     var mp2 = setInterval(function () {
                 minutePlay2()
-            }, 500);
+            }, 70);
     var sp2 = setInterval(function () {
                 secondPlay2()
-            }, 500);
+            }, 100);
     var ml2 = setInterval(function () {
                 milliPlay2();
                 //step through time to get to 8 times (there are 7 li's in html)
@@ -82,7 +82,7 @@ $(document).ready(function() {
                     clearInterval(sp2);
                     clearInterval(ml2);
                 }
-            }, 500);                  
+            }, 140);                  
     });
 
 
