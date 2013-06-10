@@ -102,9 +102,7 @@ $(document).ready(function() {
                     clearInterval(ml2);
                 }
             }, 100);                  
-    });
-        var eqnum;
-        
+    });        
 if (is_ie10===true) {eqnum = 5; eqnumplus = 6} else{ eqnum = 0; eqnumplus = 0};
 console.log(eqnum);
 console.log(eqnumplus);
