@@ -54,7 +54,7 @@ $(document).ready(function() {
     
     var mp = setInterval(function () {
                 minutePlay()
-                    
+                
             }, 500);
     var sp = setInterval(function () {
                 secondPlay()
@@ -92,7 +92,7 @@ $(document).ready(function() {
 
 //if nothing in aa, go through sequence to step through number to next li
         if (aa.html() == undefined) {
-            aa = $("ul.milliPlay li").eq(0);
+            aa = $("ul.milliPlay li").eq(5);
             aa.addClass("before")
                 .next("li")
                 .addClass("active")
@@ -128,7 +128,7 @@ $(document).ready(function() {
         var aa = $("ul.secondPlay li.active");
 
         if (aa.html() == undefined) {
-            aa = $("ul.secondPlay li").eq(0);
+            aa = $("ul.secondPlay li").eq(5);
             aa.addClass("before")
                 .next("li")
                 .addClass("active")
@@ -160,7 +160,7 @@ $(document).ready(function() {
         var aa = $("ul.minutePlay li.active");
 
         if (aa.html() == undefined) {
-            aa = $("ul.minutePlay li").eq(0);
+            aa = $("ul.minutePlay li").eq(5);
             aa.addClass("before")
                 .next("li")
                 .addClass("active")
@@ -193,7 +193,7 @@ $(document).ready(function() {
         var aa = $("ul.secondPlay2 li.active");
 
         if (aa.html() == undefined) {
-            aa = $("ul.secondPlay2 li").eq(0);
+            aa = $("ul.secondPlay2 li").eq(5);
             aa.addClass("before")
                 .next("li")
                 .addClass("active")
@@ -225,7 +225,7 @@ $(document).ready(function() {
         var aa = $("ul.minutePlay2 li.active");
 
         if (aa.html() == undefined) {
-            aa = $("ul.minutePlay2 li").eq(0);
+            aa = $("ul.minutePlay2 li").eq(6);
             aa.addClass("before")
                 .next("li")
                 .addClass("active")
@@ -259,7 +259,7 @@ function milliPlay2() {
 
 //if nothing in aa, go through sequence to step through number to next li
         if (aa.html() == undefined) {
-            aa = $("ul.milliPlay2 li").eq(0);
+            aa = $("ul.milliPlay2 li").eq(5);
             aa.addClass("before")
                 .next("li")
                 .addClass("active")
