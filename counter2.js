@@ -7,19 +7,19 @@ $(document).ready(function() {
     var mp = setInterval(function () {
                 minutePlay()
                 
-            }, 90);
+            }, 500);
     var sp = setInterval(function () {
                 secondPlay()
-            }, 90);
+            }, 500);
     var ml = setInterval(function () {
                 milliPlay()
-            }, 90); 
+            }, 500); 
     var mp2 = setInterval(function () {
                 minutePlay2()
-            }, 90);
+            }, 500);
     var sp2 = setInterval(function () {
                 secondPlay2()
-            }, 90);
+            }, 500);
     var ml2 = setInterval(function () {
                 milliPlay2();
                 //step through time to get to 8 times (there are 7 li's in html)
@@ -34,7 +34,7 @@ $(document).ready(function() {
                     clearInterval(sp2);
                     clearInterval(ml2);
                 }
-            }, 90);   
+            }, 500);   
 
 //on select, cycle through numbers to new data
   $('select').change(function (e){
@@ -55,19 +55,19 @@ $(document).ready(function() {
     var mp = setInterval(function () {
                 minutePlay()
                 
-            }, 90);
+            }, 500);
     var sp = setInterval(function () {
                 secondPlay()
-            }, 90);
+            }, 500);
     var ml = setInterval(function () {
                 milliPlay()
-            }, 90); 
+            }, 500); 
     var mp2 = setInterval(function () {
                 minutePlay2()
-            }, 90);
+            }, 500);
     var sp2 = setInterval(function () {
                 secondPlay2()
-            }, 90);
+            }, 500);
     var ml2 = setInterval(function () {
                 milliPlay2();
                 //step through time to get to 8 times (there are 7 li's in html)
@@ -82,7 +82,7 @@ $(document).ready(function() {
                     clearInterval(sp2);
                     clearInterval(ml2);
                 }
-            }, 90);                  
+            }, 500);                  
     });
 
 
@@ -142,7 +142,6 @@ $(document).ready(function() {
         else if (aa.is(":last-child")) {
             $("ul.secondPlay li").removeClass("before");
             aa.addClass("before").removeClass("active");
-            //aa = $("ul.secondPlay li").eq(0);
             aa.addClass("active")
                 .closest("body")
                 .addClass("play");
@@ -164,7 +163,7 @@ $(document).ready(function() {
         var aa = $("ul.minutePlay li.active");
 
         if (aa.html() == undefined) {
-            aa = $("ul.minutePlay li").eq(0);
+            aa = $("ul.minutePlay li").eq(5);
             aa.addClass("before")
                 //.removeClass("active")
                 .next("li")
@@ -211,7 +210,6 @@ $(document).ready(function() {
         else if (aa.is(":last-child")) {
             $("ul.secondPlay2 li").removeClass("before");
             aa.addClass("before").removeClass("active");
-            //aa = $("ul.secondPlay li").eq(0);
             aa.addClass("active")
                 .closest("body")
                 .addClass("play");
@@ -233,9 +231,8 @@ $(document).ready(function() {
         var aa = $("ul.minutePlay2 li.active");
 
         if (aa.html() == undefined) {
-            aa = $("ul.minutePlay2 li").eq(0);
+            aa = $("ul.minutePlay2 li").eq(6);
             aa.addClass("before")
-                //.removeClass("active")
                 .next("li")
                 .addClass("active")
                 .closest("body")
@@ -245,7 +242,6 @@ $(document).ready(function() {
         else if (aa.is(":last-child")) {
             $("ul.minutePlay2 li").removeClass("before");
             aa.addClass("before").removeClass("active");
-           // aa = $("ul.minutePlay2 li").eq(0);
             aa.addClass("active")
                 .closest("body")
                 .addClass("play");
